@@ -1,0 +1,11 @@
+10
+hossein rezaei 954401 19 10 20 18 20
+mahdi jafari 954402 20 19 18 20 20
+ahmad sharifi 954403 20 18 19 20 12
+mohammad amanlo 954404 18 10 20 19 20
+abbas sadati 954405 20 19 20 13 19
+reza vahedi 954406 19 20 19 20 20
+cristiano ronaldo 954407 20 19 12 19 20
+lionel messi 954408 19 20 19 20 19
+vahid shamsaei 954409 16 19 20 19 20
+hafeze shirazi 954410 11 07 19 10 19
