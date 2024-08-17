@@ -82,9 +82,3 @@ The `Specials` directory contains additional C++ scripts that cover special topi
 - `Sum_of_Facts.cpp`: C++ script to compute the sum of factorials.
 - `Sum_of_Facts2.cpp`: Another C++ script to compute the sum of factorials.
 - `Work_on_Strings.cpp`: C++ script to perform various operations on strings.
-
-## How to Use
-
-1. **Clone the Repository**: To access the files locally, clone the repository using:
-   ```bash
-   git clone https://github.com/your-username/Programming_Course_CPP.git

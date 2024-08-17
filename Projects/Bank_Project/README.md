@@ -66,9 +66,3 @@ The `Bank` class is the core class responsible for handling and coordinating the
 ### Utility Function
 
 - **Change Function**: Converts a string of characters representing a number to an integer.
-
-## Getting Started
-
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/your-username/Bank_Project.git

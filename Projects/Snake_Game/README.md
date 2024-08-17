@@ -56,9 +56,3 @@ The `main` function initializes the game with `Ssetup()`, then continuously:
 - Sleeps for 30 milliseconds between updates to control the game speed.
 
 The game continues to run until `gameOver` is set to `true`, at which point it waits for a key press before exiting.
-
-## Getting Started
-
-1. **Compile the Code**: Use a C++ compiler to compile the `snake_game` code. For example, with `g++`:
-   ```bash
-   g++ -o snake_game snake_game.cpp
